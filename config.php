@@ -2,7 +2,7 @@
 // config.php - Database connection for Daily City Desk
 
 $host = '127.0.0.1';
-$dbname = 'daily_city_desk';
+$dbname = 'subarnacahr_daily';
 $username = 'root';
 $password = '';
 $charset = 'utf8mb4';

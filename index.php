@@ -73,9 +73,7 @@ try {
 
     <main class="site-container">
 
-        <div class="hero-image-wrapper">
-            <img src="images/news-image.jpg" alt="Daily Subarnachar Official News Portal Banner">
-        </div>
+     
 
         <section class="search-section">
             <form action="index.php" method="GET" class="search-form">
@@ -141,19 +139,6 @@ try {
             </div>
         </section>
 
-        <!-- Visibly Separate API Section -->
-        <section class="api-section">
-            <div class="api-section-header">
-                <h2 class="api-section-title">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#e11d48" stroke-width="2.5"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline></svg>
-                    Loaded from the API
-                </h2>
-                <span class="api-pill">GET /api/news.php</span>
-            </div>
-            <ul id="api-news-list" class="api-news-list">
-                <li style="color: #64748b; font-style: italic;">Fetching live news data from API...</li>
-            </ul>
-        </section>
 
     </main>
 
